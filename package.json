@@ -1,13 +1,13 @@
 {
-    "name": "alphabot-telegram",
+    "name": "telegram-bot",
     "version": "1.0.0",
-    "description": "Alphabot versi telegram",
+    "description": "LinucxMD versi telegram",
     "main": "alpha.js",
     "directories": {
         "lib": "lib"
     },
     "scripts": {
-        "start": "node alpha.js"
+        "start": "node main.js"
     },
     "keywords": [
         "telegram",
@@ -19,7 +19,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/zeeoneofficial/Alphabot-Telegram.git"
+        "url": "git+https://github.com/NeofetchNpc/Telebot.git"
     },
     "author": "zeeoneofc",
     "license": "MIT",
