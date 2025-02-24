@@ -1,7 +1,7 @@
 {
-    "name": "telegram-bot",
+    "name": "telebot",
     "version": "1.0.0",
-    "description": "LinucxMD versi telegram",
+    "description": "Base Repository",
     "main": "alpha.js",
     "directories": {
         "lib": "lib"
